@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biology on Todd With a Blog</title>
+    <link>//localhost:1313/tags/biology/</link>
+    <description>Recent content in Biology on Todd With a Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/biology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the Modelling of Single-Cell RNA Sequencing Data (1/3)</title>
+      <link>//localhost:1313/posts/model-scrnaseq-1/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/model-scrnaseq-1/</guid>
+      <description>Hi Hi 2 Hi 3 what uppp</description>
+    </item>
+  </channel>
+</rss>

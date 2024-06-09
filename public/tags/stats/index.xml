@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stats on Todd With a Blog</title>
+    <link>//localhost:1313/tags/stats/</link>
+    <description>Recent content in Stats on Todd With a Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/stats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ordinal Regression</title>
+      <link>//localhost:1313/posts/ordinal-reg/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/ordinal-reg/</guid>
+      <description>Hiii</description>
+    </item>
+  </channel>
+</rss>
